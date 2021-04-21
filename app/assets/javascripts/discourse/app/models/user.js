@@ -229,7 +229,7 @@ const User = RestModel.extend({
     const allowedUsers = details && details.get("allowed_users");
     const groups = details && details.get("allowed_groups");
 
-    // directly targetted so go to inbox
+    // directly targeted so go to inbox
     if (!groups || (allowedUsers && allowedUsers.findBy("id", userId))) {
       return userPath(`${username}/messages`);
     } else {
@@ -749,8 +749,8 @@ const User = RestModel.extend({
   },
 
   @discourseComputed("watched_first_post_category_ids")
-  watchedFirstPostCategories(wachedFirstPostCategoryIds) {
-    return Category.findByIds(wachedFirstPostCategoryIds);
+  watchedFirstPostCategories(watchedFirstPostCategoryIds) {
+    return Category.findByIds(watchedFirstPostCategoryIds);
   },
 
   @discourseComputed("can_delete_account")

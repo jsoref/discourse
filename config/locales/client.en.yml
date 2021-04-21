@@ -3775,7 +3775,7 @@ en:
         backup_count:
           one: "%{count} backup on %{location}"
           other: "%{count} backups on %{location}"
-        lastest_backup: "Latest: %{date}"
+        latest_backup: "Latest: %{date}"
         traffic_short: "Traffic"
         traffic: "Application web requests"
         page_views: "Pageviews"
@@ -4767,7 +4767,7 @@ en:
         suspend_reasons:
           not_listening_to_staff: "Would not listen to staff feedback"
           consuming_staff_time: "Consumed disproportionate amounts of staff time"
-          combatative: "Too combatative"
+          combative: "Too combative"
           in_wrong_place: "In the wrong place"
           no_constructive_purpose: "No constructive purpose to their actions other than creating dissent within the community"
           custom: "Custom..."
@@ -5015,13 +5015,13 @@ en:
         revert_confirm: "Are you sure you want to revert your changes?"
         go_back: "Back to Search"
         recommended: "We recommend customizing the following text to suit your needs:"
-        show_overriden: "Only show overridden"
+        show_overridden: "Only show overridden"
         locale: "Language:"
         fallback_locale_warning: "You are editing a language based on %{fallback}. Users who choose %{fallback} as their interface language won't see your changes."
         more_than_50_results: "There are more than 50 results. Please refine your search."
 
       settings: # used by theme and site settings
-        show_overriden: "Only show overridden"
+        show_overridden: "Only show overridden"
         history: "View change history"
         reset: "reset"
         none: "none"

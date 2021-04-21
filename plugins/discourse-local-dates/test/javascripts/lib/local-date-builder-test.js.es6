@@ -250,7 +250,7 @@ test("option[recurring]", function (assert) {
   });
 });
 
-test("option[countown]", function (assert) {
+test("option[countdown]", function (assert) {
   freezeTime({ date: "2020-03-21 23:59" }, () => {
     assert.buildsCorrectDate(
       {
@@ -415,7 +415,7 @@ test("previews", function (assert) {
 
   freezeTime({ date: "2020-03-22", timezone: PARIS }, () => {
     assert.buildsCorrectDate(
-      { timezone: PARIS, isplayedTimezone: PARIS },
+      { timezone: PARIS, displayedTimezone: PARIS },
       {
         previews: [
           {

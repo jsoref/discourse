@@ -435,7 +435,7 @@ USERS = '{
             "custom_fields": [
                 {
                     "id": "resume",
-                    "value": "I currently assist the VP of Marketing in making sure that all marketing related activites are rolled out properly in the Americas market.",
+                    "value": "I currently assist the VP of Marketing in making sure that all marketing related activities are rolled out properly in the Americas market.",
                     "label": "Job Description"
                 },
                 {
@@ -2531,12 +2531,12 @@ MESSAGES = '{
                         {
                             "id": 108,
                             "url": "https://demo.socialcast.com/attachments/108",
-                            "filename": "108-reverse-a-algorithm-refernece-V7.pdf",
-                            "public_filename": "https://socialcast-demo.s3.amazonaws.com/tenants/5/attachments/108/108-reverse-a-algorithm-refernece-V7.pdf?AWSAccessKeyId=AKIAIV34WIEKJKCLRBBQ&Expires=1465128000&Signature=JP4%2BXB76kk%2BhCcuJQpZDSDx3NU4%3D",
+                            "filename": "108-reverse-a-algorithm-reference-V7.pdf",
+                            "public_filename": "https://socialcast-demo.s3.amazonaws.com/tenants/5/attachments/108/108-reverse-a-algorithm-reference-V7.pdf?AWSAccessKeyId=AKIAIV34WIEKJKCLRBBQ&Expires=1465128000&Signature=JP4%2BXB76kk%2BhCcuJQpZDSDx3NU4%3D",
                             "external_host_type": null,
                             "file_extension": "pdf",
                             "content_type": "application/pdf",
-                            "html_filename": "108-reverse-a-algorithm-refernece-V7.pdf"
+                            "html_filename": "108-reverse-a-algorithm-reference-V7.pdf"
                         }
                     ],
                     "media_files": [],
@@ -7204,7 +7204,7 @@ MESSAGES_PG_2 = '{
                     "id": 18,
                     "url": "http://www.youtube.com/watch?v=Ce7ivrGMN0U",
                     "title": "World of Warcraft: The Molten Core",
-                    "description": "WORLD OF WARCRAFT COMING TO CONSOLES WITH MOLTEN CORE™ Blizzard Entertainment, Inc. announces its long-awaited return to console gaming with World of Warcraf...",
+                    "description": "WORLD OF WARCRAFT COMING TO CONSOLES WITH MOLTEN CORE™ Blizzard Entertainment, Inc. announces its long-awaited return to console gaming with World of Warcraft...",
                     "canonical_hashtag": null,
                     "type": "video",
                     "source": {
@@ -7218,7 +7218,7 @@ MESSAGES_PG_2 = '{
                         "provider_url": "http://www.youtube.com/",
                         "url": "http://www.youtube.com/watch?v=Ce7ivrGMN0U",
                         "title": "World of Warcraft: The Molten Core",
-                        "description": "WORLD OF WARCRAFT COMING TO CONSOLES WITH MOLTEN CORE™ Blizzard Entertainment, Inc. announces its long-awaited return to console gaming with World of Warcraf...",
+                        "description": "WORLD OF WARCRAFT COMING TO CONSOLES WITH MOLTEN CORE™ Blizzard Entertainment, Inc. announces its long-awaited return to console gaming with World of Warcraft...",
                         "type": "video",
                         "thumbnail_url": "https://socialcast-demo.s3.amazonaws.com/tenants/5/media_files/17/17-hqdefault_stream_square.jpg?AWSAccessKeyId=AKIAIV34WIEKJKCLRBBQ&Expires=1465128000&Signature=JNSkKs69%2FPkpqn1P3i11h1GiRz0%3D",
                         "html": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/Ce7ivrGMN0U?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -7233,7 +7233,7 @@ MESSAGES_PG_2 = '{
                         {
                             "canonical": true,
                             "title": "World of Warcraft: The Molten Core",
-                            "description": "WORLD OF WARCRAFT COMING TO CONSOLES WITH MOLTEN CORE™ Blizzard Entertainment, Inc. announces its long-awaited return to console gaming with World of Warcraf...",
+                            "description": "WORLD OF WARCRAFT COMING TO CONSOLES WITH MOLTEN CORE™ Blizzard Entertainment, Inc. announces its long-awaited return to console gaming with World of Warcraft...",
                             "thumbnails": {
                                 "stream": "https://socialcast-demo.s3.amazonaws.com/tenants/5/media_files/17/17-hqdefault_stream.jpg?AWSAccessKeyId=AKIAIV34WIEKJKCLRBBQ&Expires=1465128000&Signature=UIN82KwunBGmsr9Th6ejv5vayAw%3D",
                                 "stream_square": "https://socialcast-demo.s3.amazonaws.com/tenants/5/media_files/17/17-hqdefault_stream_square.jpg?AWSAccessKeyId=AKIAIV34WIEKJKCLRBBQ&Expires=1465128000&Signature=JNSkKs69%2FPkpqn1P3i11h1GiRz0%3D",
@@ -8166,8 +8166,8 @@ MESSAGES_PG_2 = '{
                         "back_in_office_on": null,
                         "company_login": null
                     },
-                    "text": "After speaking with a number of our younger employees I think tutition reimbursement is really key to retaining them. Many of them are looking to earn advanced degrees. If we can setup a plan that accomplishes this effectively we can really grow our staff\'s ability and knowledge.",
-                    "html_body": "<div class=\"markdown-body\"><p>After speaking with a number of our younger employees I think tutition reimbursement is really key to retaining them. Many of them are looking to earn advanced degrees. If we can setup a plan that accomplishes this effectively we can really grow our staff\'s ability and knowledge.</p></div>",
+                    "text": "After speaking with a number of our younger employees I think tuition reimbursement is really key to retaining them. Many of them are looking to earn advanced degrees. If we can setup a plan that accomplishes this effectively we can really grow our staff\'s ability and knowledge.",
+                    "html_body": "<div class=\"markdown-body\"><p>After speaking with a number of our younger employees I think tuition reimbursement is really key to retaining them. Many of them are looking to earn advanced degrees. If we can setup a plan that accomplishes this effectively we can really grow our staff\'s ability and knowledge.</p></div>",
                     "created_at": "2016-05-21T20:48:41+00:00",
                     "updated_at": "2016-05-21T20:48:41+00:00",
                     "attachments": [],
